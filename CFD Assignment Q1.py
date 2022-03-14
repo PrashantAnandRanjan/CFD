@@ -3,9 +3,6 @@
 
 # In[8]:
 
-
-#NAME : Prashant Anand Ranjan
-#Roll no.: 21105066
 #...................................
 
 
